@@ -1,6 +1,3 @@
-Got it — here’s a **fully professional version of the README**, no emojis, no fluff. This is structured the way strong GitHub projects present themselves:
-
----
 
 # Prompt Injection Firewall  
 A lightweight, open-source security layer for LLM applications
